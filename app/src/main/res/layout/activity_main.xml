@@ -15,7 +15,7 @@
         android:layout_width="394dp"
         android:layout_height="276dp"
         android:layout_marginBottom="16dp"
-        app:srcCompat="@drawable/pwWhite"
+        app:srcCompat="@drawable/pwwhite"
         tools:layout_editor_absoluteX="39dp"
         tools:layout_editor_absoluteY="16dp" />
 
